@@ -1,0 +1,179 @@
+{
+  "userId": "641532",
+  "username": "bleahey",
+  "fetchedAt": "2025-11-14T20:58:35.967Z",
+  "totalContributions": 16,
+  "contributions": [
+    {
+      "id": "sv/Chinchou_sv/LC_0_0",
+      "creditType": "Written by",
+      "pokemon": "Chinchou",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/chinchou",
+      "setNumber": 0
+    },
+    {
+      "id": "sv/Glimmet_sv/LC_-1_1",
+      "creditType": "Written by",
+      "pokemon": "Glimmet",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/glimmet",
+      "setNumber": -1
+    },
+    {
+      "id": "sv/Wingull_sv/LC_0_2",
+      "creditType": "Written by",
+      "pokemon": "Wingull",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/wingull",
+      "setNumber": 0
+    },
+    {
+      "id": "sv/Ambipom_sv/PU_0_3",
+      "creditType": "Written by",
+      "pokemon": "Ambipom",
+      "format": "PU",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/ambipom",
+      "setNumber": 0
+    },
+    {
+      "id": "sv/Bronzong_sv/PU_0_4",
+      "creditType": "Written by",
+      "pokemon": "Bronzong",
+      "format": "PU",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/bronzong",
+      "setNumber": 0
+    },
+    {
+      "id": "sv/Diglett-Alola_sv/LC_-1_5",
+      "creditType": "Quality checked by",
+      "pokemon": "Diglett-Alola",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/diglett-alola",
+      "setNumber": -1
+    },
+    {
+      "id": "sv/Elekid_sv/LC_0_6",
+      "creditType": "Quality checked by",
+      "pokemon": "Elekid",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/elekid",
+      "setNumber": 0
+    },
+    {
+      "id": "sv/Foongus_sv/LC_-1_7",
+      "creditType": "Quality checked by",
+      "pokemon": "Foongus",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/foongus",
+      "setNumber": -1
+    },
+    {
+      "id": "sv/Grookey_sv/LC_0_8",
+      "creditType": "Quality checked by",
+      "pokemon": "Grookey",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/grookey",
+      "setNumber": 0
+    },
+    {
+      "id": "sv/Mareanie_sv/LC_0_9",
+      "creditType": "Quality checked by",
+      "pokemon": "Mareanie",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/mareanie",
+      "setNumber": 0
+    },
+    {
+      "id": "sv/Mareanie_sv/LC_1_10",
+      "creditType": "Quality checked by",
+      "pokemon": "Mareanie",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/mareanie",
+      "setNumber": 1
+    },
+    {
+      "id": "sv/Mienfoo_sv/LC_0_11",
+      "creditType": "Quality checked by",
+      "pokemon": "Mienfoo",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/mienfoo",
+      "setNumber": 0
+    },
+    {
+      "id": "sv/Mienfoo_sv/LC_1_12",
+      "creditType": "Quality checked by",
+      "pokemon": "Mienfoo",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/mienfoo",
+      "setNumber": 1
+    },
+    {
+      "id": "sv/Mienfoo_sv/LC_3_13",
+      "creditType": "Quality checked by",
+      "pokemon": "Mienfoo",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/mienfoo",
+      "setNumber": 3
+    },
+    {
+      "id": "sv/Tinkatink_sv/LC_0_14",
+      "creditType": "Quality checked by",
+      "pokemon": "Tinkatink",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/tinkatink",
+      "setNumber": 0
+    },
+    {
+      "id": "sv/Toedscool_sv/LC_0_15",
+      "creditType": "Quality checked by",
+      "pokemon": "Toedscool",
+      "format": "LC",
+      "generation": "sv",
+      "language": "en",
+      "url": "https://www.smogon.com/dex/sv/pokemon/toedscool",
+      "setNumber": 0
+    }
+  ],
+  "stats": {
+    "written": 5,
+    "qualityChecked": 11,
+    "byFormat": {
+      "LC": 14,
+      "PU": 2
+    },
+    "byGeneration": {
+      "sv": 16
+    }
+  }
+}
