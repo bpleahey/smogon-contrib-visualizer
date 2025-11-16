@@ -1,15 +1,57 @@
 {
-  "name": "smogon-cms-test",
+  "name": "smogon-contribution-scraper",
   "version": "1.0.0",
-  "scripts": {
-    "start": "ts-node src/index.ts"
+  "description": "Fetch and parse your Smogon contribution history programmatically",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "smogon-scraper": "./dist/cli.js"
   },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "prepublishOnly": "npm run build",
+    "scrape": "tsx src/cli.ts",
+    "dev": "tsx src/cli.ts",
+    "example": "node examples/basic.js",
+    "check-env": "node scripts/check-env.js",
+    "demo": "npm run scrape && open examples/demo.html",
+    "demo:server": "npx http-server examples -p 8080 -o demo.html"
+  },
+  "keywords": [
+    "smogon",
+    "pokemon",
+    "contributions",
+    "scraper",
+    "competitive",
+    "showdown"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/smogon-contribution-scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/smogon-contribution-scraper/issues"
+  },
+  "homepage": "https://github.com/yourusername/smogon-contribution-scraper#readme",
   "dependencies": {
     "dotenv": "^16.4.5",
     "node-fetch": "^3.3.2"
   },
   "devDependencies": {
-    "ts-node": "^10.9.2",
+    "@types/node": "^18.0.0",
+    "tsx": "^4.7.0",
     "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
