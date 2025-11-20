@@ -21,7 +21,7 @@ npm install
 npm run build
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### CLI Usage
 
